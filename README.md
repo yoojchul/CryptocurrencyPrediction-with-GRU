@@ -24,3 +24,6 @@ GRU.py : training with GRU (tan+ReLU)
 plot-GRU.py : plot results of training   
 bitcoin-2018-2020-full.h5 : bitcoin price between 2018 and 2020 in HDF5  
 bitcon-2018-2020-93pct.h5 : 93% of the above, 7% is used for validation only  
+
+
+![fig2](https://user-images.githubusercontent.com/15276052/102293710-f9910680-3f8a-11eb-946f-a47778a6fae8.png)
