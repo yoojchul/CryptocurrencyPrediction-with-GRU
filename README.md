@@ -4,7 +4,7 @@ GRU for Bitcoin Price Prediction
 
 This repo is adapted from the program of https://github.com/khuangaf/CryptocurrencyPrediction for Google colab. 
 
-Google colab supplies the following environments. 
+Google colab supplies the following environments.    
 Python 3.6.9  
 Tensorflow=2.3.0  
 Keras=2.4.3  
@@ -14,6 +14,8 @@ h5py=2.10.0
 sklearn=0.0  
 
 File Illustration  
+
+
 tocsv.py : convert price of bitcoin from json to csv  
 tohdf5.py : convert price of bitcoin from csv to hdf5  
 GRU.py : training with GRU (tan+ReLU)  
